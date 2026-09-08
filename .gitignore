@@ -3,7 +3,6 @@
 # distribuir os zips pelo próprio repositório do que pedir pra cada pessoa baixar manualmente).
 # Qualquer OUTRO .zip (ex: extraído por engano fora de dados/) continua ignorado.
 *.zip
-!dados/*.zip
 files_cand/
 files_bem/
 
