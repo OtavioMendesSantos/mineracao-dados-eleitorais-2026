@@ -11,6 +11,11 @@ files_bem/
 *.csv
 !dados/*.csv
 
+# Resultados intermediários dos notebooks originais
+/dados/candidatos_DEPUTADO_FEDERAL_['DF', 'GO', 'MS', 'MT']_2026_CLUSTERIZADO.csv
+/dados/candidatos_DEPUTADO_FEDERAL_CENTRO_OESTE_ANOMALIAS_2026.csv
+/dados/candidatos_DEPUTADO_FEDERAL_COM_GASTO_FAIXAS_2026.csv
+
 # Ambiente local (VS Code) — não versionar, cada um cria o seu com requirements.txt
 .venv/
 
